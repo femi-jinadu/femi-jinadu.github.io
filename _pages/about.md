@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Obafemi"
+title: "Obafemi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Hello there, I'm Obafemi
+========
 I'm a 3rd year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation lab at Tufts University. Where I work on deep learning, computer vision, and multimodal learning (vision-language models - VLM) and apply them across several domains namely animal conservation, intelligence transportation systems for incident detection, and image enhancement algorithms. 
 
 Research
 ======
 My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language). To achieve reliable, robust, and trustworthy models that achieve state-of-art performance.
 
+
+{: .align-right width="300px"} 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
 
 
