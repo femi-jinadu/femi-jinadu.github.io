@@ -17,11 +17,11 @@ Research
 My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language). To achieve reliable, robust, and trustworthy models that achieve state-of-art performance.
 
 
-![image](images/building.png){: .align-right width="100px"} 👨🏻‍💻 [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](files/building_paper.pdf) 
-
+![image](images/building.png){: .align-right width="200px"} 👨🏻‍💻 [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery]([files/building_paper.pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full)) 
+Poster Presentation, corresponding author
 Satellite imagery provides an efficient means of assessing damages and effectively planning search and rescue efforts in the aftermath of disasters. It enables timely visualization of buildings and the human population affected by these disasters. Recent research on remote sensing combines machine learning methodologies with satellite imagery to automate information extraction. The existing approach for building damage assessment relies on an ensemble of different models to obtain independent predictions that are then aggregated into one final output, other methods rely on a multi-stage model that involves a building localization module and a damage classification module. These methods are either not end-to-end trainable or are impractical for real-time applications. To address this, we propose an Attention-based Two-Stream High-Resolution Network (ATS-HRNet) and a modified CutMix data augmentation technique, which unifies the building localization and classification problems in an end-to-end trainable fashion and handles class imbalance in satellite imagery.
 
-![image](images/building.png){: .align-right width="100px"} 👨🏻‍💻 [Instant-level vehicle speed and traffic density estimation using deep neural network](files/speed_est_paper.pdf) 
+![image](images/building.png){: .align-right width="200px"} 👨🏻‍💻 [Instant-level vehicle speed and traffic density estimation using deep neural network](files/speed_est_paper.pdf) 
 
 
 
