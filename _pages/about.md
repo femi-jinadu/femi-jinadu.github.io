@@ -17,7 +17,7 @@ Research
 My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language). To achieve reliable, robust, and trustworthy models that achieve state-of-art performance.
 
 
-![image](images/building.png){: .align-right width="150px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full).<br> [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ),[Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), **Obafemi Jinadu (corresponding author)**, [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE, 2022.<br> <font size="3">Poster Presentation<font>
+![image](images/building.png){: .align-right width="150px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full).<br> [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), **Obafemi Jinadu (corresponding author)**, [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE, 2022.<br> <font size="3">Poster Presentation<font>
 
 
 
@@ -31,8 +31,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 
-![image](images/insole.png){: .align-right width="150px", height="300px"} [An Individualized Machine Learning Approach for Human Body Weight Estimation Using Smart Shoe Insoles](https://doi.org/10.3390/s23177418).<be> 
-[Foram Sanghavi](https://scholar.google.com/citations?hl=en&user=ScEEXRMAAAAJ), **Obafemi Jinadu**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Susan B. Roberts](https://sciprofiles.com/profile/547599): Sensors 2023, 23(17) Special Issue Wearables and Artificial Intelligence in Health Monitoring.<be> 
+![image](images/insole.png){: .align-right width="150px", height="300px"} [An Individualized Machine Learning Approach for Human Body Weight Estimation Using Smart Shoe Insoles](https://doi.org/10.3390/s23177418).<br>[Foram Sanghavi](https://scholar.google.com/citations?hl=en&user=ScEEXRMAAAAJ), **Obafemi Jinadu**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Susan B. Roberts](https://sciprofiles.com/profile/547599): Sensors 2023, 23(17) Special Issue Wearables and Artificial Intelligence in Health Monitoring.<br> 
 
 
 
