@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Obafemi Jinadu"
   avatar           : "Profile_pic.png"
-  bio              : "Multi-Modal Learning \n under Prof. Karen Panetta"
+  bio              : "PhD candidate @ Tufts University."
   location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fCA9ZaoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
