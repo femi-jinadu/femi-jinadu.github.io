@@ -18,7 +18,9 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 ![image](images/building.png){: .align-right width="150px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery]([files/building_paper.pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full)). 
+
 Obafemi Jinadu, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE.
+
 Poster Presentation, corresponding author
 
 
