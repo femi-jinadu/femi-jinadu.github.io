@@ -31,7 +31,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 
-![image](images/insole.png){: .align-right width="150px", height="300px"} [Instant-level vehicle speed and traffic density estimation using deep neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12526/125260J/Instant-level-vehicle-speed-and-traffic-density-estimation-using-deep/10.1117/12.2663643.short#_=_).<be> 
+![image](images/insole.png){: .align-right width="150px", height="300px"} [An Individualized Machine Learning Approach for Human Body Weight Estimation Using Smart Shoe Insoles](https://doi.org/10.3390/s23177418).<be> 
 [Foram Sanghavi](https://scholar.google.com/citations?hl=en&user=ScEEXRMAAAAJ), **Obafemi Jinadu**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Susan B. Roberts](https://sciprofiles.com/profile/547599): Sensors 2023, 23(17) Special Issue Wearables and Artificial Intelligence in Health Monitoring.<be> 
 
 
