@@ -17,7 +17,7 @@ Research
 My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language). To achieve reliable, robust, and trustworthy models that achieve state-of-art performance.
 
 
-![image](images/model.png){: .align-right width="300px"} 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+![image](images/model.png){: .align-right width="600px"} 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
 
 
