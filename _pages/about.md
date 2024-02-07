@@ -36,7 +36,14 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 ![image](images/sole1.png){: .align-right width="150px"} [An Individualized Machine Learning Approach for Human Body Weight Estimation Using Smart Shoe Insoles](https://doi.org/10.3390/s23177418).<br>[Foram Sanghavi](https://scholar.google.com/citations?hl=en&user=ScEEXRMAAAAJ), **Obafemi Jinadu**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Susan B. Roberts](https://sciprofiles.com/profile/547599): Sensors 2023, 23(17) Special Issue Wearables and Artificial Intelligence in Health Monitoring.
 
+Course-based ML Adjacent Projects
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
+
+Recent News & Updates
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 
 
