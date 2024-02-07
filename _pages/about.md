@@ -46,11 +46,13 @@ The main configuration file for the site is in the base directory in [_config.ym
 | February | $80     |
 | March    | $420    |
 
+Helvetica, arial
 
 ` Month     Savings `
 
 
-``` Month     Savings ```
+
+``` <font size="13">Helvetica Poster Presentation<font> ```
 
 `` Month     Savings ``
 
