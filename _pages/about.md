@@ -51,8 +51,11 @@ Helvetica, arial
 ` Month     Savings `
 
 
+** Poster Presentation **
 
-``` <font size="13"> Poster Presentation<font> ```
+$${\color{orange}Orange}$$
+
+``` ** Poster Presentation ** ```
 
 `` Month     Savings ``
 
