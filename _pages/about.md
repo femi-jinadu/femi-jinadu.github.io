@@ -25,7 +25,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 
-<img src="speed.png" width="200" height="300">
+<img src="images/speed.png" width="200" height="300">
 
 
 ![image](images/speed.png){: .align-right width="20%" height="90%"} [Instant-level vehicle speed and traffic density estimation using deep neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12526/125260J/Instant-level-vehicle-speed-and-traffic-density-estimation-using-deep/10.1117/12.2663643.short#_=_).<br> **Obafemi Jinadu (corresponding author)**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2023, vol. 12526, pp. 125-138. SPIE, 2023.<be> <font size="3">Poster Presentation<font>
