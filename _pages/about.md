@@ -43,7 +43,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Recent News & Updates
 ------
-I will be presenting our paper “An impact study of deep learning-based low-light enhancement in intelligent transportation systems” at the upcoming "Multimodal Image Exploitation and Learning 2024" conference  [SPIE Defense + Commercial Sensing at National Harbor, Maryland](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?utm_id=rdcs23gb&utm_campaign=dcs23_general_branding&utm_source=event_general_event_branding&utm_medium=n_a&utm_term=dcs23_ez_campaign#_=_).
+* I will be presenting our paper “An impact study of deep learning-based low-light enhancement in intelligent transportation systems” at the upcoming "Multimodal Image Exploitation and Learning 2024" conference  [SPIE Defense + Commercial Sensing at National Harbor, Maryland](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?utm_id=rdcs23gb&utm_campaign=dcs23_general_branding&utm_source=event_general_event_branding&utm_medium=n_a&utm_term=dcs23_ez_campaign#_=_).
 
 
 
