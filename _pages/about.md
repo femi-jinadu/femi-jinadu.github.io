@@ -49,7 +49,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 
 | Month    | Savings |
-| January  | $250    |
+ January   $250    
 | February | $80     |
 | March    | $420    |
 
