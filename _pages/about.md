@@ -24,7 +24,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 
-<br>
+
 ![image](images/speed6.png){: .align-right width="150px"} [Instant-level vehicle speed and traffic density estimation using deep neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12526/125260J/Instant-level-vehicle-speed-and-traffic-density-estimation-using-deep/10.1117/12.2663643.short#_=_).<br> **Obafemi Jinadu (corresponding author)**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2023, vol. 12526, pp. 125-138. SPIE, 2023.<be> <font size="3">Poster Presentation<font><br> Demo videos of the vehicle speed and traffic density estimation algorithm across several weather conditions can be found. [here](https://drive.google.com/drive/folders/1X5iZVbwMOY1Q6Etj1Se2FXz_ewjsMDm4?usp=sharing).
 
 
@@ -33,7 +33,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 
-<br>
+
 ![image](images/sole.png){: .align-right width="150px"} [An Individualized Machine Learning Approach for Human Body Weight Estimation Using Smart Shoe Insoles](https://doi.org/10.3390/s23177418).<br>[Foram Sanghavi](https://scholar.google.com/citations?hl=en&user=ScEEXRMAAAAJ), **Obafemi Jinadu**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Susan B. Roberts](https://sciprofiles.com/profile/547599): Sensors 2023, 23(17) Special Issue Wearables and Artificial Intelligence in Health Monitoring.
 
 
