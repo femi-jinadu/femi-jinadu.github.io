@@ -40,12 +40,19 @@ Course-based ML Adjacent Projects
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 
 
-Recent News & Updates
 ------
- |I will be presenting our paper “An impact study of deep learning-based low-light enhancement in intelligent transportation systems” at the upcoming "Multimodal Image Exploitation and Learning 2024" conference  [SPIE Defense + Commercial Sensing at National Harbor, Maryland](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?utm_id=rdcs23gb&utm_campaign=dcs23_general_branding&utm_source=event_general_event_branding&utm_medium=n_a&utm_term=dcs23_ez_campaign#_=_).| April, 2024 |
+
+|Recent News & Updates| |
+------
+|I will be presenting our paper “An impact study of deep learning-based low-light enhancement in intelligent transportation systems” at the upcoming "Multimodal Image Exploitation and Learning 2024" conference  [SPIE Defense + Commercial Sensing at National Harbor, Maryland](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?utm_id=rdcs23gb&utm_campaign=dcs23_general_branding&utm_source=event_general_event_branding&utm_medium=n_a&utm_term=dcs23_ez_campaign#_=_).| April, 2024 |
 
 
 
