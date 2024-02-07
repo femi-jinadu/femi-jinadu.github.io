@@ -17,7 +17,7 @@ Research
 My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language). To achieve reliable, robust, and trustworthy models that achieve state-of-art performance.
 
 
-![image](images/building.png){: .align-right width="125px" height="125px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full).<br> [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), **Obafemi Jinadu (corresponding author)**, [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE, 2022.<br> <font size="3">Poster Presentation<font>
+![image](images/building.png){: .align-right width="125px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full).<br> [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), **Obafemi Jinadu (corresponding author)**, [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE, 2022.<br> <font size="3">Poster Presentation<font>
 
 
 
@@ -25,7 +25,9 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 
 
-![image](images/speed2.png){: .align-right width="150px"} [Instant-level vehicle speed and traffic density estimation using deep neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12526/125260J/Instant-level-vehicle-speed-and-traffic-density-estimation-using-deep/10.1117/12.2663643.short#_=_).<br> **Obafemi Jinadu (corresponding author)**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2023, vol. 12526, pp. 125-138. SPIE, 2023.<be> <font size="3">Poster Presentation<font>
+![image](images/speed3.png){: .align-right width="150px"} [Instant-level vehicle speed and traffic density estimation using deep neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12526/125260J/Instant-level-vehicle-speed-and-traffic-density-estimation-using-deep/10.1117/12.2663643.short#_=_).<br> **Obafemi Jinadu (corresponding author)**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2023, vol. 12526, pp. 125-138. SPIE, 2023.<be> <font size="3">Poster Presentation<font>
+
+
 
 
 
