@@ -52,7 +52,7 @@ Helvetica, arial
 
 
 
-``` <font size="13">Helvetica Poster Presentation<font> ```
+``` <font size="13"> Poster Presentation<font> ```
 
 `` Month     Savings ``
 
