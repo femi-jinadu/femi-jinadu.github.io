@@ -14,7 +14,7 @@ I'm a 3rd year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#
 
 Research
 --------
-My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language). To achieve reliable, robust, and trustworthy models that achieve state-of-art performance.
+My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language), toward deploying reliable, robust, and trustworthy models that achieve state-of-art performance.
 
 
 ![image](images/building.png){: .align-right width="150px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full).<br> [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), **Obafemi Jinadu (corresponding author)**, [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE, 2022.<br> <font size="3">Poster Presentation<font>
