@@ -1,22 +1,30 @@
 # main links links
+
+# main links links
 main:
-   - title: "CV"
+  - title: "CV"
+    # url: /cv/
     url: /files/Femi_CV_recent.pdf
-    
-  #- title: "Publications"
-   # url: /publications/
 
- # - title: "works in progress"
-  #  url: /_pages/works in progress.md   
-
-  #- title: "Teaching"
-   # url: /teaching/    
-    
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
+  
+  - title: "Publications"
+    url: /publications/
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Guide"
+  #   url: /markdown/
+
     
  
     
