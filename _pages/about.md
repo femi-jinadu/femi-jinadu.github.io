@@ -78,8 +78,8 @@ Recent News & Updates
 * Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
 <br> `` Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing, April 27, 2024``
 
-* Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.<br>
-<font size="2">Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing<font> ``April 27, 2024``
+* Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
+<br><font size="2">Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing<font> 
 
 
 
@@ -91,11 +91,6 @@ Recent News & Updates
 
 
 
-
-
-===============
-  
-* I will be presenting our paper “An impact study of deep learning-based low-light enhancement in intelligent transportation systems” at the upcoming "Multimodal Image Exploitation and Learning 2024" conference  [SPIE Defense + Commercial Sensing at National Harbor, Maryland](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?utm_id=rdcs23gb&utm_campaign=dcs23_general_branding&utm_source=event_general_event_branding&utm_medium=n_a&utm_term=dcs23_ez_campaign#_=_).| April, 2024 |
 
 
 
