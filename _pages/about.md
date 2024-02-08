@@ -69,20 +69,6 @@ $${\color{orange}Orange}$$
 
 Recent News & Updates 
 ------
-
-* Our paper 'An impact study of deep learning-based low-light enhancement in intelligent transportation systems' has paper accepted.
-<br>``April 27, 2024 ``
-<br> Presentation at [Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)
-
-
-* Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
-<br> `` Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing, April 27, 2024``
-
-* Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
-<br><font size="2.75">Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing<font>
-<br>``April 27, 2024 ``
-
-
 * Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
 <br>``April 27, 2024 `` <font size="2.75">Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing<font>
 
