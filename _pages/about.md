@@ -59,8 +59,7 @@ Recent News & Updates
 * Developing an image-text pair dataset tailored for transportation.
 <br>``work in progress `` <font size="2.75">Stay tuned!<font>
 
-* Developing a dataset tailored for animal conservation and an accompanying deep-learning architecture for pose estimation. Soon to be published.  
-<br>``work in progress `` <font size="2.75">Stay tuned!<font>
+* Developing a dataset tailored for animal conservation and an accompanying deep-learning architecture for pose estimation. Soon to be published. <br>``work in progress `` <font size="2.75">Stay tuned!<font>
 
 
 
