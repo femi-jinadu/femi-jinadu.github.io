@@ -92,7 +92,7 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  dribble          : "https://www.linkedin.com/in/obafemi-jinadu/"
+  dribble          : #"https://www.linkedin.com/in/obafemi-jinadu/"
   flickr           :
   facebook         :
   foursquare       :
@@ -113,8 +113,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        : "@borismeinardus"
+  youtube          : "@borismeinardus"
+  wikipedia        : 
 
 
 # Reading Files
