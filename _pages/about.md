@@ -39,8 +39,8 @@ My research is centered on developing cutting-edge machine learning, and deep le
 Course-based ML Adjacent Projects
 ------
 * **Probabilistic Model for Amur Tiger Re-identification** [paper here](files/Final_Project_Report(6).pdf) 
-  <br>-<font size="2.75">Developed an animal re-identification deep-learning model that classifies 107 unique amur tiger entities using a Maximum A Posteriori (MAP) estimation model to counter the overfitting challenge of traditional maximum likelihood estimation-based deep learning models with severely limited  and imbalanced training data.
-<br>Instructor comments: "very nice overall! Would be excited to talk more if you want to follow up on this project. I think could be a great potential future CP for this class, among other things (maybe also a cool research paper)" <font> ~ [Michael C. Hughes](https://scholar.google.com/citations?hl=en&user=ugSmcnoAAAAJ)
+  -Developed an animal re-identification deep-learning model that classifies 107 unique amur tiger entities using a Maximum A Posteriori (MAP) estimation model to counter the overfitting challenge of traditional maximum likelihood estimation-based deep learning models with severely limited  and imbalanced training data.
+<br>Instructor comments: "very nice overall! Would be excited to talk more if you want to follow up on this project. I think could be a great potential future CP for this class, among other things (maybe also a cool research paper)" ~ [Michael C. Hughes](https://scholar.google.com/citations?hl=en&user=ugSmcnoAAAAJ)
 
 
 
