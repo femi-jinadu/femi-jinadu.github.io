@@ -40,7 +40,11 @@ Course-based ML Adjacent Projects
 ------
 * **Probabilistic Model for Amur Tiger Re-identification** [paper here](files/Final_Project_Report(6).pdf) 
 <br>Developed an animal re-identification deep-learning model that classifies 107 amur tiger entities using a Maximum A Posteriori (MAP) estimation model to counter the overfitting challenge of traditional maximum likelihood estimation-based models with severely limited  and imbalanced training data.
-<br>Instructor comments: "very nice overall! Would be excited to talk more if you want to follow up on this project. I think could be a great potential future CP for this class, among other things (maybe also a cool research paper)" ~ [Michael C. Hughes](https://scholar.google.com/citations?hl=en&user=ugSmcnoAAAAJ)
+<br>Instructor comment: "very nice overall! Would be excited to talk more if you want to follow up on this project. I think could be a great potential future CP for this class, among other things (maybe also a cool research paper)" ~ [Michael C. Hughes](https://scholar.google.com/citations?hl=en&user=ugSmcnoAAAAJ) 
+<br>``Spring, 2023 `` ``Project score: 104/100 `` ``Grade A ``
+
+* **Unified Self-Supervised Algorithm for Speech, Vision, and Text: Meta’s data2vec Project** [paper here](files/Final_Paper(2).pdf)
+<br>``Spring, 2022 `` ``Grade A+ ``
 
 
 
