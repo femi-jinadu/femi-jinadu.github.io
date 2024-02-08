@@ -45,7 +45,7 @@ Course-based Machine Learning Adjacent Projects
 
 * **Unified Self-Supervised Algorithm for Speech, Vision, and Text: Meta’s data2vec Project** [paper re-write here.](files/Final_Paper(2).pdf) <br>Adapted from [original paper](https://ai.meta.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language/)
 <br>``Machine Learning, Spring 2022 `` ``Grade A+ ``
-* **Classifying Review Sentiment with Bag-of-Words Features** [project documentation](files/cs135_project02.pdf)
+* **Natural Language Processing in Classifying Review Sentiment with Bag-of-Words Features** [project documentation](files/cs135_project02.pdf)
 <br>``Machine Learning, Spring 2022 `` ``Grade A+ ``
 
 
