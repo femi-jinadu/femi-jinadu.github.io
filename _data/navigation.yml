@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "works in progress"
-    url: /works in progress/    
+    url: /_pages/works in progress.md   
 
   #- title: "Teaching"
    # url: /teaching/    
