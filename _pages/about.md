@@ -75,8 +75,8 @@ Recent News & Updates
 <br> Presentation at [Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)
 
 
-* Our paper 'An impact study of deep learning-based low-light enhancement in intelligent transportation systems' has paper accepted.
-<br> `` Presentation at [Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23), April 27, 2024``
+* Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
+<br> `` Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing, April 27, 2024``
 
 
 * 
