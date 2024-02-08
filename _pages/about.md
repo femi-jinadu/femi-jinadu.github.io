@@ -38,6 +38,14 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 Course-based ML Adjacent Projects
 ------
+* [Probabilistic Model for Amur Tiger Re-identification](files/Final_Project_Report(6).pdf)
+
+Monitoring the population and migration patterns of endangered species is crucial for wildlife conservation. The conventional approach for this task is animal tagging where humans manually place tags around these animals, this is a tedious process that does not scale to large populations. Leveraging computer vision, deep learning, and probabilistic techniques this process can be automated via camera trap footage. The dataset for these type of tasks are often limited and largely imbalanced.
+
+Traditional maximum likelihood estimation (our baseline method) is known to severely overfit given limited training data such as this, where we have 1,887 training data on 107 tiger classes, with some tigers having as low as 10 images to train on. To address this overfitting challenge on our baseline method, I explored the Maximum A Posteriori (MAP) estimation. Specifically, I included a prior distribution p(w) to capture assumptions about weights w before observing the data. Accounting for this prior distribution along with the likelihood p({tn}Nn=1|{xn}Nn=1, w) allows us to evaluate the uncertainty in weights w after observing the dataset in the form of a posterior probability p(w|{xn, tn}Nn=1).
+
+
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 
