@@ -56,6 +56,12 @@ Recent News & Updates
 * Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has paper accepted.
 <br>``April 27, 2024 `` <font size="2.75">Presentation at Multimodal Image Exploitation and Learning conference SPIE Defense + Commercial Sensing<font>
 
+* Developing an image-text pair dataset tailored for transportation.
+<br>``work in progress `` <font size="2.75">Stay tuned!<font>
+
+* Developing a dataset tailored for animal conservation and an accompanying deep-learning architecture for pose estimation. Soon to be published.  
+<br>``work in progress `` <font size="2.75">Stay tuned!<font>
+
 
 
 
