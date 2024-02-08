@@ -72,6 +72,14 @@ $${\color{orange}Orange}$$
 |I will be presenting our paper “An impact study of deep learning-based low-light enhancement in intelligent transportation systems” at the upcoming "Multimodal Image Exploitation and Learning 2024" conference  [SPIE Defense + Commercial Sensing at National Harbor, Maryland](https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?utm_id=rdcs23gb&utm_campaign=dcs23_general_branding&utm_source=event_general_event_branding&utm_medium=n_a&utm_term=dcs23_ez_campaign#_=_).| April, 2024 |
 
 
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+
 Publications
 ======
   <ul>{% for post in site.publications %}
