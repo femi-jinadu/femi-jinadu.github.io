@@ -6,11 +6,11 @@ main:
     # url: /cv/
     url: /files/Femi_CV_recent.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #  url: /portfolio/
   
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+    #url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
