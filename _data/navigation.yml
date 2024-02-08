@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+   # url: /publications/
 
-  - title: "works in progress"
-    url: /_pages/works in progress.md   
+ # - title: "works in progress"
+  #  url: /_pages/works in progress.md   
 
   #- title: "Teaching"
    # url: /teaching/    
@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: files/Femi CV recent.pdf
     
   #- title: "Guide"
    # url: /markdown/
