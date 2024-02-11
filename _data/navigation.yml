@@ -2,7 +2,7 @@
 
 # main links links
 main:
-  - title: "my CV"
+  - title: "CV"
     # url: /cv/
     url: /files/femi_cv_latest.pdf
 
