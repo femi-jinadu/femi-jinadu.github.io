@@ -4,7 +4,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/Femi_CV_latest.pdf
+    url: /files/femi_cv_latest.pdf
 
   # - title: "Portfolio"
   #  url: /portfolio/
