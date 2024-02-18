@@ -37,7 +37,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 Course-based Machine Learning Adjacent Projects
 ------
-* **Probabilistic Model for Amur Tiger Re-identification** [my paper here ](files/Final_Project_Report(6).pdf) | [ course website](https://www.cs.tufts.edu/cs/136/2023s/index.html)
+* **Probabilistic Model for Amur Tiger Re-identification** [my paper here ](files/Final_Project_Report(6).pdf) | [ course website here](https://www.cs.tufts.edu/cs/136/2023s/index.html)
 <br>Developed an animal re-identification deep-learning model that classifies 107 amur tiger entities using a Maximum A Posteriori (MAP) estimation model to counter the overfitting challenge of traditional maximum likelihood estimation-based models with severely limited  and imbalanced training [data.](https://arxiv.org/abs/1906.05586) 
 <br>Instructor comment: "very nice overall! Would be excited to talk more if you want to follow up on this project. I think could be a great potential future CP for this class, among other things (maybe also a cool research paper)" ~ [Michael C. Hughes](https://scholar.google.com/citations?hl=en&user=ugSmcnoAAAAJ) 
 <br>``Statistical Pattern Recognition, Spring 2023 `` ``Score 104/100 `` ``Grade A ``
