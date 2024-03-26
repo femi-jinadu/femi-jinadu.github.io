@@ -52,7 +52,7 @@ Course-based Machine Learning Adjacent Projects
 
 Recent News & Updates 
 ------
-* I just got awarded the 2024 School of Engineering Outstanding Academic Scholarship Award at Tufts University! (one of four students bestowed this award).
+* I got awarded the 2024 School of Engineering Outstanding Academic Scholarship Award at Tufts University! (one of four students bestowed this award).
 <br>``March 26, 2024 ``
 
 * Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has been accepted.
