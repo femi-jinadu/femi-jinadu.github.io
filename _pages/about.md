@@ -28,7 +28,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 **Obafemi Jinadu (corresponding author)**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2023, vol. 12526, pp. 125-138. SPIE, 2023.<br> Poster Presentation. Project GitHub repository can be found [here](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation)
 
 
-![image](images/final_1.png){: .align-right width="150px"} [An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems](https://drive.google.com/file/d/1YSLNKpzCTN7JPe3H43Ygg4dEEd6ETzxp/view?usp=drive_link).<br>
+![image](images/final_2.png){: .align-right width="150px"} [An Impact Study of Deep Learning-based Low-light Image Enhancement in Intelligent Transportation Systems](https://drive.google.com/file/d/1YSLNKpzCTN7JPe3H43Ygg4dEEd6ETzxp/view?usp=drive_link).<br>
 **Obafemi Jinadu (corresponding author)**, [Srijith Rajeev](https://scholar.google.com/citations?hl=en&user=9vac4DkAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): TBA. Project GitHub repository can be found [here](https://github.com/Obafemi-Jinadu/Survey-on-Low-Light-Image-Enhancement-with-Deep-learning)
 
 
