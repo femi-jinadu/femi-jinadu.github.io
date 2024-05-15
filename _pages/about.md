@@ -38,7 +38,7 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 ![image](images/sole1.png){: .align-right width="150px"} [An Individualized Machine Learning Approach for Human Body Weight Estimation Using Smart Shoe Insoles](https://doi.org/10.3390/s23177418).<br>[Foram Sanghavi](https://scholar.google.com/citations?hl=en&user=ScEEXRMAAAAJ), **Obafemi Jinadu**, [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), [Susan B. Roberts](https://sciprofiles.com/profile/547599): Sensors 2023, 23(17) Special Issue Wearables and Artificial Intelligence in Health Monitoring.
 
-Course-based Machine Learning Adjacent Projects
+Personal & Course-based Machine Learning Adjacent Projects
 ------
 * **My DDPM re-implementation** (Project Github Repository [here](https://github.com/Obafemi-Jinadu/Diffusion-models-re-implementations)). 
   <br>I re-implementend the paper [denoising diffusion probabilisitic model (DDPM)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf&ved=2ahUKEwj_t6yIs46GAxUUFVkFHV8RCssQFnoECBMQAQ&usg=AOvVaw3_txjfhqsg67acjkwqOuSf) from scratch. The repositroy explores the strengths and weaknesses of DDPMs along with some ablation study. 
