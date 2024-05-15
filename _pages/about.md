@@ -40,6 +40,8 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 Course-based Machine Learning Adjacent Projects
 ------
+* **My DDPM re-implementation** (Project Github Repository [here](https://github.com/Obafemi-Jinadu/Diffusion-models-re-implementations)). 
+  <br>I re-implementend the paper [denoising diffusion probabilisitic model (DDPM)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf&ved=2ahUKEwj_t6yIs46GAxUUFVkFHV8RCssQFnoECBMQAQ&usg=AOvVaw3_txjfhqsg67acjkwqOuSf) from scratch. The repositroy explores the strengths and weaknesses of DDPMs along with some ablation study. 
 * **Probabilistic Model for Amur Tiger Re-identification** [my paper](files/Final_Project_Report(6).pdf) | [course website](https://www.cs.tufts.edu/cs/136/2023s/index.html)
 <br>I developed an animal re-identification deep-learning model that classifies 107 amur tiger entities using a Maximum A Posteriori (MAP) estimation model to counter the overfitting challenge of traditional maximum likelihood estimation-based models with severely limited  and imbalanced training [data.](https://arxiv.org/abs/1906.05586) 
 <br>Instructor comment: "very nice overall! Would be excited to talk more if you want to follow up on this project. I think could be a great potential future CP for this class, among other things (maybe also a cool research paper)" ~ [Michael C. Hughes](https://scholar.google.com/citations?hl=en&user=ugSmcnoAAAAJ) 
