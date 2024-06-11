@@ -37,9 +37,9 @@ My research is centered on developing cutting-edge machine learning, and deep le
 
 Personal & Course-based Machine Learning Adjacent Projects
 ------
-* **My DDPM re-implementation** (Project Github Repository [here](https://github.com/Obafemi-Jinadu/Diffusion-models-re-implementations)). 
+* **My DDPM re-implementation** (Github Repository [here](https://github.com/Obafemi-Jinadu/Diffusion-models-re-implementations)). 
   <br>I re-implemented the paper [denoising diffusion probabilistic model (DDPM)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf&ved=2ahUKEwj_t6yIs46GAxUUFVkFHV8RCssQFnoECBMQAQ&usg=AOvVaw3_txjfhqsg67acjkwqOuSf) from scratch. The repository explores the strengths and weaknesses of DDPMs along with some ablation studies.
-* **VisionTransformer (ViT) Re-implementation from Scratch** (Project Github Repository [here](https://github.com/Obafemi-Jinadu/VisionTransformer-Re-Implementation-from-Scratch)). 
+* **VisionTransformer (ViT) Re-implementation from Scratch** (Github Repository [here](https://github.com/Obafemi-Jinadu/VisionTransformer-Re-Implementation-from-Scratch)). 
   <br> I re-implemented the paper [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)from scratch. The repository explores the Vision Transformer Architecture in detail, mapping the theory into code and thus cementing my understanding of the components that make up this architecture. 
 * **Probabilistic Model for Amur Tiger Re-identification** [my paper](files/Final_Project_Report(6).pdf) | [course website](https://www.cs.tufts.edu/cs/136/2023s/index.html)
 <br>I developed an animal re-identification deep-learning model that classifies 107 amur tiger entities using a Maximum A Posteriori (MAP) estimation model to counter the overfitting challenge of traditional maximum likelihood estimation-based models with severely limited  and imbalanced training [data.](https://arxiv.org/abs/1906.05586) 
