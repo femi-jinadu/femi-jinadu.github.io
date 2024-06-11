@@ -56,7 +56,7 @@ Personal & Course-based Machine Learning Adjacent Projects
 
 Recent News & Updates 
 ------
-* I got awarded the [2024 School of Engineering Outstanding Academic Scholarship Award](https://www.linkedin.com/posts/obafemi-jinadu_i-am-deeply-honored-and-excited-to-receive-activity-7191418525591252992-6EPv?utm_source=share&utm_medium=member_desktop) at Tufts University! (one of four students bestowed this award).
+* I was awarded the [2024 School of Engineering Outstanding Academic Scholarship Award](https://www.linkedin.com/posts/obafemi-jinadu_i-am-deeply-honored-and-excited-to-receive-activity-7191418525591252992-6EPv?utm_source=share&utm_medium=member_desktop) at Tufts University! (one of four students bestowed this award).
 <br>``March 26, 2024 ``
 
 * Our paper '[An impact study of deep learning-based low-light enhancement in intelligent transportation systems](https://spie.org/defense-commercial-sensing/presentation/An-impact-study-of-deep-learning-based-low-light-enhancement/13033-23)' has been accepted.
