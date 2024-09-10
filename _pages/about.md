@@ -52,7 +52,7 @@ Personal & Course-based Machine Learning Adjacent Projects
 <br>``Machine Learning, Spring 2022 `` ``Grade A+ ``
 
 
-
+------
 <table>
   <tr>
     <th colspan="2"> Skills & Expertise </th>
