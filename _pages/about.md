@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there, I'm Obafemi  ![image](images/obiwan-removebg-preview.png){:width="40px"}
 ========
-I'm a 4th year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation Lab at Tufts University where I work on computer vision, multimodal machine learning and generative AI to address complex, real-world problems.
+I'm a 4th year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation Lab at Tufts University, where I work on computer vision, multimodal machine learning and generative AI to address complex, real-world problems.
 
 
 Research
