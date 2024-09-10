@@ -9,13 +9,32 @@ redirect_from:
 
 Hello there, I'm Obafemi  ![image](images/obiwan-removebg-preview.png){:width="40px"}
 ========
-I'm a 4th year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation Lab at Tufts University. I am truly stoked about leveraging cutting-edge AI techniques to solve complex, real-world problems. With a strong foundation in computer vision, multimodal machine learning, and generative AI, I have developed and implemented advanced models that push the boundaries of what's possible. My technical expertise includes proficiency in Python, C, C++, and CUDA, with extensive experience in building deep neural networks using frameworks like PyTorch and TensorFlow. I thrive in collaborative environments and am always looking for innovative ways to apply my skills to drive meaningful impact.
-
+I'm a 4th year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation Lab at Tufts University where I work on computer vision, multimodal machine learning and generative AI to solve complex, real-world problems.
 
 
 Research
 --------
 My research is centered on developing cutting-edge machine learning, and deep learning techniques for vision and multimodal understanding (vision-language), toward deploying reliable, robust, and trustworthy models that achieve state-of-art performance.
+
+
+<table>
+  <tr>
+    <th colspan="2"> Skills & Expertise </th>
+  </tr>
+  <tbody>
+        <tr>
+            <td rowspan=4>Programming Languages</td>
+            <td rowspan=2><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"> </td>
+  <tbody>
+        <tr>
+            <td rowspan=4>Tools & Libraries </td>
+            <td rowspan=2><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> </td>
+   <tbody>
+        <tr>
+            <td rowspan=4>Auxilliary & Visualization </td>
+            <td rowspan=2><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </td>
+ 
+</table>
 
 
 ![image](images/building.png){: .align-right width="150px"} [Attention-based two-stream high-resolution networks for building damage assessment from satellite imagery](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12100/121000L/Attention-based-two-stream-high-resolution-networks-for-building-damage/10.1117/12.2618901.full).<br> [Victor Oludare](https://scholar.google.com/citations?hl=en&user=RlbR3EgAAAAJ), [Landry Kezebou](https://scholar.google.com/citations?hl=en&user=eBMmM3gAAAAJ), **Obafemi Jinadu (corresponding author)**, [Karen Panetta](https://scholar.google.com/citations?hl=en&user=nsOodtAAAAAJ), [Sos Agaian](https://scholar.google.com/citations?hl=en&user=WyvLxkEAAAAJ): In Multimodal Image Exploitation and Learning 2022 (Vol. 12100, pp. 224-239). SPIE, 2022.<br> <font size="3">Poster Presentation<font>
