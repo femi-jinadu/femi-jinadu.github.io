@@ -9,7 +9,9 @@ redirect_from:
 
 Hello there, I'm Obafemi  ![image](images/obiwan-removebg-preview.png){:width="40px"}
 ========
-I'm a 4th year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation lab at Tufts University. Where I work on deep learning, computer vision, and multimodal learning (vision-language models - VLM) and apply them across several domains namely animal conservation, intelligence transportation systems for incident detection, and image enhancement algorithms. 
+I'm a 4th year PhD candidate at [Karen Panetta's](https://www.karenpanetta.com/#about-overview) Vision Sensing and Simulation Lab at Tufts University. I am truly stoked about leveraging cutting-edge AI techniques to solve complex, real-world problems. With a strong foundation in computer vision, multimodal machine learning, and generative AI, I have developed and implemented advanced models that push the boundaries of what's possible. My technical expertise includes proficiency in Python, C, C++, and CUDA, with extensive experience in building deep neural networks using frameworks like PyTorch and TensorFlow. I thrive in collaborative environments and am always looking for innovative ways to apply my skills to drive meaningful impact.
+
+
 
 Research
 --------
