@@ -51,6 +51,26 @@ Personal & Course-based Machine Learning Adjacent Projects
 * **Natural Language Processing in Classifying Review Sentiment with Bag-of-Words Features** [project documentation](files/cs135_project02.pdf)
 <br>``Machine Learning, Spring 2022 `` ``Grade A+ ``
 
+Skills 
+------
+<table>
+  <tr>
+    <th colspan="2">  </th>
+  </tr>
+  <tbody>
+        <tr>
+            <td rowspan=4>Programming Languages</td>
+            <td rowspan=2><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"> </td>
+  <tbody>
+        <tr>
+            <td rowspan=4>Tools & Libraries </td>
+            <td rowspan=2><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> </td>
+   <tbody>
+        <tr>
+            <td rowspan=4>Auxilliary & Visualization </td>
+            <td rowspan=2><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </td>
+ 
+</table>
 
 Recent News & Updates 
 ------
