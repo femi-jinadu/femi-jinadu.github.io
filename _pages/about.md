@@ -51,6 +51,9 @@ Personal & Course-based Machine Learning Adjacent Projects
 * **Natural Language Processing in Classifying Review Sentiment with Bag-of-Words Features** [project documentation](files/cs135_project02.pdf)
 <br>``Machine Learning, Spring 2022 `` ``Grade A+ ``
 
+
+
+
 Skills 
 ------
 <table>
@@ -71,6 +74,8 @@ Skills
             <td rowspan=2><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </td>
  
 </table>
+
+
 
 Recent News & Updates 
 ------
