@@ -54,6 +54,15 @@ Personal & Course-based Machine Learning Adjacent Projects
 
 Recent News & Updates 
 ------
+* Preprint version of our paper titled "[A Unified Approach to Pose Estimation in Elephants and Other Quadrupeds using Noisy Labels](https://www.researchsquare.com/article/rs-6397651/v1)" has been posted on Research Square.
+<br>``April 9, 2025 ``
+
+* I am a recipient of the 2024 [IEEE Signal Processing Society Scholarship Award](https://signalprocessingsociety.org/gallery/2024-sps-scholarship-recipients).
+<br>``September 27, 2024 ``
+
+* I was awarded the [2024 School of Engineering Outstanding Academic Scholarship Award](https://www.linkedin.com/posts/obafemi-jinadu_i-am-deeply-honored-and-excited-to-receive-activity-7191418525591252992-6EPv?utm_source=share&utm_medium=member_desktop) at Tufts University! (one of four students bestowed this award).
+<br>``March 26, 2024 ``
+
 * I was awarded the [2024 School of Engineering Outstanding Academic Scholarship Award](https://www.linkedin.com/posts/obafemi-jinadu_i-am-deeply-honored-and-excited-to-receive-activity-7191418525591252992-6EPv?utm_source=share&utm_medium=member_desktop) at Tufts University! (one of four students bestowed this award).
 <br>``March 26, 2024 ``
 
